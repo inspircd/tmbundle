@@ -23,7 +23,7 @@
 		<key>escape</key>
 		<dict>
 			<key>match</key>
-			<string>\\[bchimrsux]</string>
+			<string>\\[bchimrsux](?:\d+|{(?:black|blue|green|red|brown|magenta|yellow|light green|cyan|light cyan|light blue|pink|gray|grey|light gray|light grey|default)})?</string>
 			<key>name</key>
 			<string>constant.character.escape.inspircd-motd</string>
 		</dict>

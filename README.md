@@ -26,7 +26,6 @@ git clone https://github.com/inspircd/tmbundle.git InspIRCd.tmbundle
 
 ### To Do
 
-- Highlight named color escapes in the MOTD grammar.
 - Highlight XML entities in the configuration grammar.
 
 ### License
